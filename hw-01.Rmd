@@ -2,7 +2,7 @@
 title: "HW 01 - Airbnb listings in NYC"
 author: "Insert your name here"
 date: "Insert date here"
-output: github_document
+output: md_document
 ---
 
 ## Load packages and data
